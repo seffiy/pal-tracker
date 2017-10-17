@@ -8,3 +8,6 @@ github-private-key: |
 
    -----END RSA PRIVATE KEY-----
 
+aws-access-key-id: NP
+aws-secret-access-key: NP
+aws-bucket: NA
